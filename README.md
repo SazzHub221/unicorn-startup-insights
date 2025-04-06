@@ -28,89 +28,82 @@ This project uses a dataset of **Indian Unicorn Startups (2023)**. It includes:
 ## 📊 Exploratory Data Analysis
 
 ### 🏭 Top Sectors
+- **Fintech, E-commerce, and SaaS** dominate India's unicorn economy.
 
-```python
-# Fintech, E-commerce, SaaS dominate India's unicorn economy
+### 🗓️ Entry Timeline
+- A major spike in 2021 highlights India's post-COVID startup boom.
 
-🗓️ Entry Timeline
-python
-Copy
-Edit
-# Major spike in 2021 shows India's post-COVID startup boom
+### 🏙️ Startup Hubs
+- **Bangalore, Delhi NCR, and Mumbai** are the key unicorn cities.
 
-🏙️ Startup Hubs
-python
-Copy
-Edit
-# Bangalore, Delhi NCR, and Mumbai are the key unicorn cities
+### 🧑‍💼 Investor Landscape
+- **Sequoia, Tiger Global, and Accel** are the most active investors.
 
-🧑‍💼 Investor Landscape
-python
-Copy
-Edit
-# Sequoia, Tiger Global, and Accel lead the pack
-
-💰 Valuation Growth
-python
-Copy
-Edit
-# Entry vs current valuation – startups typically grow 2–5x
-
-🧠 Key Insights
-🔼 Fintech & SaaS are India’s fastest-growing sectors.
-
-🏙️ Bangalore is home to the most unicorns.
-
-💸 Unicorns entering in 2021 saw the biggest valuation jumps.
-
-🤝 Sequoia is the most active investor in India’s unicorn scene.
-
-📈 Startups grow significantly post-unicorn – some by 10x+.
-
-🚀 What's Next?
-✅ Done:
-
-Data Cleaning
-
-Visualization
-
-Trend Analysis
-
-🧠 Coming Up:
-
-🧮 Predicting future unicorn valuations using ML
-
-💡 Recommending investors based on sector/location
-
-⏳ Forecasting unicorn growth with time-series models
-
-🛠️ Tools & Tech
-Tool	Purpose
-Python	Main programming language
-Pandas	Data wrangling and cleaning
-Matplotlib/Seaborn	Data visualization
-Jupyter	Notebook-style development
-Git + GitHub	Version control + hosting
-👨‍💻 Author
-SazzHub221
-🧑‍🎓 Fresher | Python Enthusiast | Aspiring Data Analyst
-🔗 LinkedIn • 📫 Email
-
-📄 License
-This project is licensed under the MIT License. Feel free to use, share, and build upon it!
-
-⭐ Star this repo if you found it useful! Contributions, feedback, and forks are welcome.
-
-yaml
-Copy
-Edit
+### 💰 Valuation Growth
+- Startups typically grow **2–5x** from their entry valuation to their current valuation.
 
 ---
 
-📌 **Next Steps:**
-- Create an `images` folder in your project directory.
-- Add the plots/visualizations as `sectors.png`, `entry_years.png`, etc.
-- Push everything:
+## 🧠 Key Insights
+- 🔼 **Fintech & SaaS** are India’s fastest-growing sectors.
+- 🏙️ **Bangalore** is home to the most unicorns.
+- 💸 Unicorns entering in **2021** saw the biggest valuation jumps.
+- 🤝 **Sequoia** is the most active investor in India’s unicorn scene.
+- 📈 Startups grow significantly post-unicorn – some by **10x+**.
+
+---
+
+## 🚀 What's Next?
+
+### ✅ Completed:
+- Data Cleaning
+- Visualization
+- Trend Analysis
+
+### 🧠 Coming Up:
+- 🧮 Predicting future unicorn valuations using ML
+- 💡 Recommending investors based on sector/location
+- ⏳ Forecasting unicorn growth with time-series models
+
+---
+
+## 🛠️ Tools & Tech
+
+| Tool               | Purpose                          |
+|--------------------|----------------------------------|
+| **Python**         | Main programming language       |
+| **Pandas**         | Data wrangling and cleaning     |
+| **Matplotlib/Seaborn** | Data visualization          |
+| **Jupyter**        | Notebook-style development      |
+| **Git + GitHub**   | Version control + hosting       |
+
+---
+
+## 👨‍💻 Author
+
+**SazzHub221**  
+🧑‍🎓 Fresher | Python Enthusiast | Aspiring Data Analyst  
+🔗 [LinkedIn](#) • 📫 [Email](#)
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**. Feel free to use, share, and build upon it!
+
+---
+
+## ⭐ Contributions
+
+If you found this project useful, please **star this repository**! Contributions, feedback, and forks are welcome.
+
+---
+
+## 📌 Next Steps
+
+1. Create an `images` folder in your project directory.
+2. Add the plots/visualizations as `sectors.png`, `entry_years.png`, etc.
+3. Push everything to GitHub:
 
 ```bash
 git add README.md images/
