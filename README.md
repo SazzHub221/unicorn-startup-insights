@@ -98,14 +98,3 @@ This project is licensed under the **MIT License**. Feel free to use, share, and
 If you found this project useful, please **star this repository**! Contributions, feedback, and forks are welcome.
 
 ---
-
-## 📌 Next Steps
-
-1. Create an `images` folder in your project directory.
-2. Add the plots/visualizations as `sectors.png`, `entry_years.png`, etc.
-3. Push everything to GitHub:
-
-```bash
-git add README.md images/
-git commit -m "Added visual README with unicorn data insights"
-git push origin main
